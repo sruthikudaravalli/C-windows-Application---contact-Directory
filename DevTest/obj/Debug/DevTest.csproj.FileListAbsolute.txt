@@ -1,0 +1,12 @@
+c:\users\sruthi\documents\visual studio 2013\Projects\DevTest\DevTest\obj\Debug\DevTest.AddNewContact.resources
+c:\users\sruthi\documents\visual studio 2013\Projects\DevTest\DevTest\obj\Debug\DevTest.AddUpdateForm.resources
+c:\users\sruthi\documents\visual studio 2013\Projects\DevTest\DevTest\obj\Debug\DevTest.MainForm.resources
+c:\users\sruthi\documents\visual studio 2013\Projects\DevTest\DevTest\obj\Debug\DevTest.UserLogin.resources
+c:\users\sruthi\documents\visual studio 2013\Projects\DevTest\DevTest\obj\Debug\DevTest.Properties.Resources.resources
+c:\users\sruthi\documents\visual studio 2013\Projects\DevTest\DevTest\obj\Debug\DevTest.csproj.GenerateResource.Cache
+c:\users\sruthi\documents\visual studio 2013\Projects\DevTest\DevTest\bin\Debug\DevTest.exe.config
+c:\users\sruthi\documents\visual studio 2013\Projects\DevTest\DevTest\bin\Debug\DevTest.exe
+c:\users\sruthi\documents\visual studio 2013\Projects\DevTest\DevTest\bin\Debug\DevTest.pdb
+c:\users\sruthi\documents\visual studio 2013\Projects\DevTest\DevTest\obj\Debug\DevTest.exe
+c:\users\sruthi\documents\visual studio 2013\Projects\DevTest\DevTest\obj\Debug\DevTest.pdb
+c:\users\sruthi\documents\visual studio 2013\Projects\DevTest\DevTest\obj\Debug\DevTest.csprojResolveAssemblyReference.cache
