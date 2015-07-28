@@ -1,5 +1,4 @@
-# sruthi-DevTest
-ICS Software Development test - Sruthi Kudaravalli
+
 
 
 Please download the Zip folder and extract the files to sruthi-DevTest-master
