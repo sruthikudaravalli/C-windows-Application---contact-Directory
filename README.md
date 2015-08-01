@@ -1,4 +1,4 @@
-Contacts Directory is a C# windows application which allows a user to create an account and store all the contact details in a directory form.
+
 Functions:
 1. User registers and create an account.
 2. Stores all the contact details and can edit, delete or add new contacts.
